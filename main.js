@@ -103,7 +103,7 @@ const catchNumbersOnDisplay = () => {
         calculateAll.somar(valueA, valueB);
       }
     }
-
+    // fazer o resto da condicao
     // else if (display.includes("-") == true) {
     //   const valueA = Number(display.split("-")[0]);
     //   const valueB = Number(display.split("-")[1]);
